@@ -1,4 +1,9 @@
-# FastTransfer
+# MODIFIED-FastTransfer
+
+All Source Code is the same!  Simply added the capability to Transfer Players to other servers
+Automatically if the current server is full or whitelisted.   You can Change the IP and Port in the source
+code on lines 128, 127.  Also You can control where players transfer if they are kicked.  The IP and Port can be changed on lines 139, 140.
+All credit goes to shoghicp.
 
 Transfer vanilla Minecraft: PE clients to another server.
 Works with Minecraft: PE 0.11.0 alpha build 6 or higher.
